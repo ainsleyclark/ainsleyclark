@@ -10,12 +10,12 @@ I'm a full stack software engineer, back-end enthusiast and GoLang geek.
 - SQL
 - SCSS
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="ainsleyclark | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ainsmsclark)
 [<img align="left" alt="ainsleyclark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ainsleyclark/)
 [<img align="left" alt="ainsleyclark | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/11318860/ainsley)
-
+ -->
 ## Frameworks & Tools
 
 - Vue
