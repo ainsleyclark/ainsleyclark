@@ -2,6 +2,19 @@
 
 I'm a full stack software engineer, back-end enthusiast and GoLang geek.
 
+## Languages:
+
+- GoLang
+- PHP
+- Javascript
+- SQL
+- SCSS
+
+## Frameworks & Tools
+
+- Vue
+- Mongo
+
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
