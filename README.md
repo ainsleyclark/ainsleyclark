@@ -3,12 +3,26 @@
 I'm a full stack software engineer, back-end enthusiast and GoLang geek.
 
 ### Languages:
-
 - GoLang
 - PHP
-- Javascript
 - SQL
-- SCSS
+- Javascript
+- Typescript
+
+### Frameworks:
+- Vue
+- Hugo
+- Laravel
+
+### Tools:
+- Git
+- Redis
+- Pub/Sub
+- Postgres
+- GCP 
+- Linux
+- Mongo
+
 
 <!-- ### Connect with me:
 
