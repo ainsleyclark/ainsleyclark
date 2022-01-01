@@ -1,13 +1,11 @@
-## Hi, I'm Ainsley 👋
+## 👋 Hi, I'm Ainsley
 
-I'm a full stack software engineer, back-end enthusiast and GoLang geek.
-
-### Connect with me:
-
-[<img align="left" alt="ainsleyclark | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ainsmsclark)
-[<img align="left" alt="ainsleyclark | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ainsleyclark/)
-[<img align="left" alt="ainsleyclark | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/11318860/ainsley)
-
+- Programmer, Gopher and open-source contributor.
+- Creator of [Go Mail](https://github.com/ainsleyclark/go-mail), a cross driver email platform for GoLang.
+- Creator of [Squidge](https://wordpress.org/plugins/squidge/), a free image optimisation plugin for WordPress . 
+- Building [Verbis](https://github.com/verbiscms/verbis/), a Go CMS platform with a focus on speed, security and flexibility, rivaling WordPress.
+- Author and blogger on [https://ainsley.dev](https://ainsley.dev).
+- Senior Developer @reddico-dev, an extraordinarily talented SEO agency.
 
 ### Languages:
 - GoLang
