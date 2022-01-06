@@ -14,7 +14,9 @@ informal conversation to see what can be done.
 - Senior Developer [@reddico-dev](https://github.com/reddico-dev), an extraordinarily talented SEO agency.
 
 💬 Ask me about: GoLang, PHP, SQL, Vue, Hugo
+
 📫 How to reach me: hello@ainsley.dev
+
 ⚡ Fun fact: Music with its associated tech has always fascinated me. I remember getting my first
 pair of decks as a child and was captivated by the changes in output on the mixer, determined to
 understand it. This was my incentive for undertaking a degree in Music Technology.
