@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ainsley
+## ainsley.dev
 
 I’m highly talented, well respected Full Stack Software Engineer with a passion for technology of all
 kinds, I have built and deployed a multitude of highly scalable, tested and maintainable software
