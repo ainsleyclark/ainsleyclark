@@ -11,7 +11,7 @@ informal conversation to see what can be done.
 - Creator of [Squidge](https://wordpress.org/plugins/squidge/), a free image optimisation plugin for WordPress.
 - Building [Verbis](https://github.com/verbiscms/verbis/), a Go CMS platform with a focus on speed, security and flexibility, rivaling WordPress.
 - Author and blogger on [https://ainsley.dev](https://ainsley.dev).
-- Senior Developer [@reddico-dev](https://github.com/reddico-dev), an extraordinarily talented SEO agency.
+- Software Engineer [@flypay](https://github.com/flypay).
 
 ### Languages:
 - Go
